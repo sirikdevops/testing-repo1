@@ -1,2 +1,5 @@
-public class{
+public class
+{
+var tool1 = devops;
+var cloud = aws;
 }
