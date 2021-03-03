@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+public class() #from dev22
+{
+   public static void main() 
+   {
+    console.writeline("java file has mod from dev2")
+=======
+public class() #from dev1
+{
+   public static void main() # from dev1
+   {
+    console.writeline("hello file mod from devo1")
+>>>>>>> 47a5338197f385c07b47181a6c193df5c0f539ac
+    
+   }
+ }  # from dev22
